@@ -1,1 +1,1 @@
-# CNS_Lab
+Computer Networks Lab Assignments
